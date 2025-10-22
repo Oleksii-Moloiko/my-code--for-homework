@@ -10,5 +10,5 @@ To run our code:
 
 '''python
 def hello():
-    return "Hello""
+    return "Hello"
 '''
